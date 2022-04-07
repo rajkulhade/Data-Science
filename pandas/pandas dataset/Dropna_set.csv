@@ -1,0 +1,20 @@
+Product ID,Product Name,Target,Amount
+111,TV,100,45000
+222,Table,NaN,5000
+333,Dishwater,100,NaN
+444,Washing Machine,100,25000
+555,NaN,100,15000
+666,Refrigerator,NaN,30000
+777,Blender,100,NaN
+888,NaN,100,2000
+999,Kettle,100,1500
+112,Iron,NaN,1500
+223,NaN,100,3000
+334,Sofa,NaN,2000
+445,Bike,100,NaN
+556,Heater,100,10000
+667,NaN,100,8000
+778,Mobile,NaN,15000
+889,Laptop,100,45000
+114,Locker,100,NaN
+224,Stovr,100,8000
